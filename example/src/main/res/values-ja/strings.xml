@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設定</string>
+
+    <string name="settings">設定</string>
+
+    <string name="send">送信</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_positive_button">送信</string>
+
+
+    <string name="warning">警告</string>
+    <string name="message1">メッセージ①</string>
+    <string name="message2">メッセージ②</string>
+    <string name="message3">メッセージ③</string>
+    <string name="message4">メッセージ④</string>
+    <string name="message5">メッセージ⑤</string>
+
+    <string name="string1">重複した文字列</string>
+    <string name="string2">重複した文字列</string>
+    <string name="string3">重複した文字列</string>
+    <string name="string4">重複した文字列</string>
+    <string name="string5">重複した文字列</string>
+    <string name="string6">重複した文字列</string>
+    <string name="string7">重複した文字列</string>
+    <string name="string8">重複した文字列</string>
+    <string name="string9">重複した文字列</string>
+</resources>

@@ -1,4 +1,28 @@
 <resources>
     <string name="app_name">gradle-strings-deduplication-plugin</string>
     <string name="action_settings">Settings</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="send">Send</string>
+    <string name="dialog_title">Warning</string>
+    <string name="dialog_positive_button">Send</string>
+
+
+    <string name="warning">Warning</string>
+    <string name="message1">Message 1</string>
+    <string name="message2">Message 2</string>
+    <string name="message3">Message</string>
+    <string name="message4">Message</string>
+    <string name="message5">Message</string>
+
+    <string name="string1">Duplicated String</string>
+    <string name="string2">Duplicated String</string>
+    <string name="string3">Duplicated String</string>
+    <string name="string4">Duplicated String</string>
+    <string name="string5">Duplicated String</string>
+    <string name="string6">Duplicated String</string>
+    <string name="string7">Duplicated String</string>
+    <string name="string8">Duplicated String</string>
+    <string name="string9">Duplicated String</string>
 </resources>
