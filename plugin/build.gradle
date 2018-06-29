@@ -30,7 +30,7 @@ pluginBundle {
 
     plugins {
         locateApkPlugin {
-            id = 'com.github.kazkin.gradle.string-deduplication'
+            id = 'com.github.kazkn.gradle.strings-deduplication'
             displayName = 'Android Strings Deduplication Plugin'
         }
     }
