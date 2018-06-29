@@ -26,7 +26,7 @@ class StringsDeduplicationPlugin : Plugin<Project> {
 
             resDirs.flatMap { findStringsXmlPath(it) }
                     .forEach {
-                        println("--- $it ---")
+                        println("--- ${it.absolutePath.removePrefix(project.rootProject.projectDir.absolutePath)} ---")
                         val fileElement = Element("file").setAttribute("name", it.absolutePath)
                         rootElement.children.add(fileElement)
 
