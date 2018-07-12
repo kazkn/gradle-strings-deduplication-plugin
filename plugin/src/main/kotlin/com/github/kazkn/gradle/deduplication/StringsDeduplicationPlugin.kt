@@ -33,7 +33,7 @@ class StringsDeduplicationPlugin : Plugin<Project> {
                         checkStringsXml(it, fileElement)
                     }
 
-            writeReport(project.rootProject, Document(rootElement))
+            writeReport(project, Document(rootElement))
         }
     }
 

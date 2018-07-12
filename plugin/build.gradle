@@ -20,7 +20,7 @@ dependencies {
 
 archivesBaseName = 'strings-deduplication'
 group = 'com.github.kazkn.gradle'
-version = '0.1.2'
+version = '0.1.3'
 
 pluginBundle {
     website = 'https://github.com/kazkn/gradle-strings-deduplication-plugin'
